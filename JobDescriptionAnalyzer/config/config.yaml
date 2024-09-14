@@ -1,36 +1,201 @@
 skills_keywords:
-  - python
-  - sql
-  - data analysis
-  - visualization
-  - tableau
-  - power bi
-  - excel
-  - machine learning
-  - statistics
-  - r
-  - sas
-  - spss
-  - data mining
-  - big data
-  - hadoop
-  - spark
-  - aws
-  - azure
-  - google cloud
-  - data warehouse
-  - etl
-  - bi
-  - business intelligence
-  - data science
-  - predictive modeling
-  - data governance
-  - data quality
-  - data cleansing
-  - data integration
-  - data visualization
-  - dashboard
-  - reporting
-  - kpi
-  - metrics
-  - analytics
+  programming_languages:
+    - python
+    - r
+    - sql
+    - java
+    - scala
+    - javascript
+
+  data_analysis:
+    - data analysis
+    - exploratory data analysis
+    - statistical analysis
+    - a/b testing
+    - hypothesis testing
+    - regression analysis
+    - time series analysis
+    - clustering
+    - dimensionality reduction
+
+  machine_learning:
+    - machine learning
+    - deep learning
+    - natural language processing
+    - computer vision
+    - reinforcement learning
+    - neural networks
+    - ensemble methods
+    - feature engineering
+
+  big_data:
+    - big data
+    - hadoop
+    - spark
+    - hive
+    - pig
+    - kafka
+    - airflow
+
+  cloud_platforms:
+    - aws
+    - azure
+    - google cloud
+    - ibm cloud
+
+  databases:
+    - sql
+    - mysql
+    - postgresql
+    - mongodb
+    - cassandra
+    - redis
+    - elasticsearch
+
+  data_visualization:
+    - tableau
+    - power bi
+    - looker
+    - d3.js
+    - matplotlib
+    - seaborn
+    - plotly
+
+  business_intelligence:
+    - bi
+    - business intelligence
+    - reporting
+    - dashboards
+    - kpis
+    - metrics
+
+  data_engineering:
+    - etl
+    - data warehouse
+    - data lake
+    - data modeling
+    - data pipeline
+    - data integration
+    - data governance
+    - data quality
+
+  tools:
+    - excel
+    - spss
+    - sas
+    - jupyter notebooks
+    - git
+    - docker
+
+  emerging_technologies:
+    - artificial intelligence
+    - internet of things
+    - blockchain
+    - edge computing
+    - quantum computing
+
+  domain_specific:
+    finance:
+      - financial analysis
+      - risk management
+      - fraud detection
+    healthcare:
+      - electronic health records
+      - clinical data analysis
+      - biostatistics
+    marketing:
+      - customer segmentation
+      - churn prediction
+      - campaign analysis
+
+proficiency_levels:
+  - beginner
+  - intermediate
+  - advanced
+
+certifications:
+  - AWS Certified Data Analytics
+  - Google Data Analytics Professional Certificate
+  - Microsoft Certified: Data Analyst Associate
+  - Cloudera Certified Associate Data Analyst
+  - SAS Certified Data Scientist
+  - Tableau Desktop Specialist
+
+technical_skills:
+    - python
+    - r
+    - sql
+    - java
+    - c++
+    - javascript
+    - scala
+    - spark
+    - hadoop
+    - aws
+    - azure
+    - gcp
+    - docker
+    - kubernetes
+    - machine learning
+    - deep learning
+    - natural language processing
+    - computer vision
+    - data analysis
+    - data visualization
+    - statistical analysis
+    - a/b testing
+    - etl
+    - big data
+    - data modeling
+    - data warehousing
+    - data mining
+    - predictive modeling
+    - time series analysis
+    - regression analysis
+    - clustering
+    - classification
+    - tableau
+    - power bi
+    - looker
+    - matplotlib
+    - seaborn
+    - plotly
+    - d3.js
+    - excel
+    - sas
+    - spss
+    - tensorflow
+    - pytorch
+    - scikit-learn
+    - pandas
+    - numpy
+    - scipy
+
+soft_skills:
+    - communication
+    - teamwork
+    - problem-solving
+    - critical thinking
+    - creativity
+    - leadership
+    - adaptability
+    - time management
+    - organization
+    - attention to detail
+    - collaboration
+    - presentation skills
+    - project management
+    - analytical thinking
+    - decision making
+    - interpersonal skills
+    - emotional intelligence
+    - conflict resolution
+    - negotiation
+    - customer service
+    - mentoring
+    - coaching
+    - flexibility
+    - initiative
+    - self-motivation
+    - stress management
+    - work ethic

@@ -1,0 +1,95 @@
+{
+  "topics": [
+    [
+      "models",
+      "datasets",
+      "working",
+      "modelling",
+      "like",
+      "good",
+      "ensure",
+      "modeling",
+      "communication",
+      "details"
+    ],
+    [
+      "work",
+      "bi",
+      "solutions",
+      "years",
+      "environment",
+      "team",
+      "analyst",
+      "key",
+      "independently",
+      "maintain"
+    ],
+    [
+      "knowledge",
+      "language",
+      "python",
+      "good",
+      "modelling",
+      "details",
+      "modeling",
+      "communication",
+      "ensure",
+      "models"
+    ],
+    [
+      "models",
+      "datasets",
+      "working",
+      "modelling",
+      "like",
+      "good",
+      "ensure",
+      "modeling",
+      "communication",
+      "details"
+    ],
+    [
+      "tools",
+      "insights",
+      "visualization",
+      "team",
+      "collaboration",
+      "use",
+      "power",
+      "actionable",
+      "tableau",
+      "teams"
+    ]
+  ],
+  "skills": {
+    "python": 3,
+    "r": 4,
+    "sql": 8,
+    "machine learning": 1,
+    "power bi": 2,
+    "tableau": 2,
+    "reporting": 3,
+    "dashboards": 2,
+    "bi": 4,
+    "excel": 2,
+    "scala": 1,
+    "statistical analysis": 1,
+    "data analysis": 2,
+    "aws": 1,
+    "looker": 1,
+    "matplotlib": 1,
+    "data quality": 1,
+    "finance": 1,
+    "business intelligence": 1,
+    "metrics": 1,
+    "data modeling": 2,
+    "data pipeline": 1
+  },
+  "work_experience": {
+    "2 years of experience": 1,
+    "2+ years of experience": 1
+  },
+  "education": {
+    "bachelor's degree": 2
+  }
+}
