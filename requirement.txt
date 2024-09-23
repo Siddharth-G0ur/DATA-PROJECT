@@ -1,0 +1,4 @@
+pinecone 
+tqdm.auto 
+sentence_transformers 
+streamlit 
