@@ -1,4 +1,4 @@
-pinecone 
-tqdm.auto 
-sentence_transformers 
-streamlit 
+pinecone-client
+tqdm.auto
+sentence-transformers
+streamlit
